@@ -14,7 +14,6 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration of 
 
 * Ploted the results using the DataFrame `plot` method.
 
-  ![precipitation](Images/precipitation.png)
 
 * Used Pandas to print the summary statistics for the precipitation data.
 
@@ -33,8 +32,6 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration of 
   * Filtered by the station with the highest number of observations.
 
   * Ploted the results as a histogram with `bins=12`.
-
-    ![station-histogram](Images/station-histogram.png)
 
 - - -
 
